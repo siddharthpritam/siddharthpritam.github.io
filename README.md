@@ -1,6 +1,6 @@
 ## Welcome
 
-I am an Assistant Professor in the Department of Computer Science at Shiv Nadar University. I have finished my doctoral [thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) under the supervision of [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/). 
+I am an Assistant Professor in the Department of Computer Science at Shiv Nadar University. I have finished my doctoral [thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) under the supervision of [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/). I did my undergraduate studies from the Department of Mathematics (Mathematics and Computing) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
