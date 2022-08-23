@@ -3,9 +3,9 @@
 I am an assistant professor in the Department of Computer Science at [Shiv Nadar University](https://snu.edu.in/home). 
 
 ## Education
-- PhD: 2016-2020. I have finished my doctoral [thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) under the supervision of [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/). 
+- PhD: 2016-2020. I have finished my doctoral [thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) under the supervision of [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at team [DataShape](https://www.inria.fr/en/datashape) [Inria Shopia Antipolis] (https://www.inria.fr/en/inria-centre-universite-cote-azur). 
 
--Undergradute: 2006-2011. Mathematics and Computing, from the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
+- Undergradute: 2006-2011. Mathematics and Computing, from the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 ## Publications
 
