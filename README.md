@@ -1,6 +1,7 @@
 ## Welcome
 
 I am assistant professor in the [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home). 
+My research interests are design and analysis of efficient algorithms for problem in Geometry and Topology.
 
 ## Education
 - PhD : 2016-2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), team - [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur). Links to my thesis [Collapses and Persistence](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and youtube [link](https://www.youtube.com/watch?v=AqsYrT-qUC0) of the defense.
@@ -8,9 +9,9 @@ I am assistant professor in the [Department of Computer Science](https://cse.snu
 - Undergradute : 2006-2011. Mathematics and Computing, from the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 ## Positions
-- Assistant Professor : July'2021-Current @ Department of Computer Science at [Shiv Nadar University](https://snu.edu.in/home).
-- Post-Doctoral Fellow : Oct'2020-May'2021 @ [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur)
-- Data Science Analyst : July'11 - Apr'15
+- Assistant Professor : July'2021-Current, [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home)
+- Post-Doctoral Fellow : Oct'2020-May'2021, [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur).
+- Data Science Analyst : July'11 - Apr'15, [FICO](https://www.fico.com/en/about-us) Bangalore, India.
 
 ## Publications
 
