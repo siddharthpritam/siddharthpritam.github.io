@@ -3,7 +3,7 @@
 I am assistant professor in the [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home). 
 
 ## Education
-- PhD : 2016-2020, under the supervision of [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) in team [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur). A link to my thesis [Collapses and Persistence](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and [defence](https://www.youtube.com/watch?v=AqsYrT-qUC0)
+- PhD : 2016-2020. Under the supervision of [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) in team [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur). A link to my thesis [Collapses and Persistence](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and youtube [link](https://www.youtube.com/watch?v=AqsYrT-qUC0) of the defence.
 
 - Undergradute : 2006-2011. Mathematics and Computing, from the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
