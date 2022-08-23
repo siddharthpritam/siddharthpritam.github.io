@@ -4,7 +4,7 @@ I am assistant professor in the [Department of Computer Science](https://cse.snu
 My research interests are to design and analyse efficient algorithms for problem in Geometry and Topology. In particular, I am interested in Topological Data Analysis and triangulations of submanifolds.
 
 ## Education
-- PhD : 2016-2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), team - [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur). Links to my thesis [Collapses and Persistence](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and youtube [link](https://www.youtube.com/watch?v=AqsYrT-qUC0) of the defense.
+- PhD : 2016-2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), team - [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France](https://www.inria.fr/en/inria-centre-universite-cote-azur). Links to my thesis [Collapses and Persistent Homology](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and youtube [link](https://www.youtube.com/watch?v=AqsYrT-qUC0) of the defense.
 
 - Undergradute : 2006-2011. Mathematics and Computing, from the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
