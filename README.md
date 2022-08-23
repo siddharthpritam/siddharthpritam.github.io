@@ -22,6 +22,9 @@ My research interests are to design and analyse efficient algorithms for problem
 
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 
+- Journal:
+1. 
+
 //Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
