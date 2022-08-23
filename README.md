@@ -6,7 +6,7 @@ My research interests are to design and analyse efficient algorithms for problem
 ## Education.
 - PhD : 2016-2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), team - [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France](https://www.inria.fr/en/inria-centre-universite-cote-azur). Links to my thesis [Collapses and Persistent Homology](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and the [defense](https://www.youtube.com/watch?v=AqsYrT-qUC0).
 
-- Undergradute : 2006-2011. Mathematics and Computing, from the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
+- Undergradute : 2006-2011. [IIT Kharagpur](http://www.iitkgp.ac.in/) Mathematics and Computing.
 
 ## Positions.
 - Assistant Professor : July'21-Current, [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home)
