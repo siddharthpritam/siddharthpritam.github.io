@@ -3,25 +3,26 @@
 I am assistant professor in the [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home). 
 My research interests are to design and analyse efficient algorithms for problem in Geometry and Topology. In particular, I am interested in Topological Data Analysis and triangulations of submanifolds.
 
-## Education
+## Education.
 - PhD : 2016-2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), team - [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France](https://www.inria.fr/en/inria-centre-universite-cote-azur). Links to my thesis [Collapses and Persistent Homology](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and youtube [link](https://www.youtube.com/watch?v=AqsYrT-qUC0) of the defense.
 
 - Undergradute : 2006-2011. Mathematics and Computing, from the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
-## Positions
+## Positions.
 - Assistant Professor : July'21-Current, [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home)
 - Post-Doctoral Fellow : Oct'20-May'21, [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur).
 - Data Science Analyst : July'11 - Apr'15, [FICO](https://www.fico.com/en/about-us) Bangalore, India.
 
-## Recent Publications
-- Confrences:
+## Recent Publications.
+- Confrence:
 1. [Swap, Shift and Trim to Edge Collapse a Filtration](https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf) with [Marc Glisse](https://geometrica.saclay.inria.fr/team/Marc.Glisse/) at [SoCG'2022](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/socg.html).
 2. [Edge Collapse and Persistence of Flag Complexes](https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at [SoCG'2020](https://socg20.inf.ethz.ch/).
 3. [Computing Persistent Homology of Flag Complexes via Strong Collapses](https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at SoCG 2019.
 4. [Strong Collapse for Persistence]() with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)  and Divyansh Pareek at  [ESA 2018](http://algo2018.hiit.fi/esa/)
+
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 
-#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+//Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
