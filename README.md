@@ -30,6 +30,10 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 - Software:
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
+## Teaching
+1. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
+2. Theory of Computation. Semesters: Spring 22.
+
 ## Recent Talks
 1. Aatrn Online Seminars, Aug'22 : [Swap, Shift and Trim to edge collapse a filtration](https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s).
 2. Persistent Homology, theory and computation, Feb'2020, FGV Rio De Janeiro, Brazil.
