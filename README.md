@@ -3,6 +3,9 @@
 I am assistant professor in the [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home). 
 My research interests are to design and analyse efficient algorithms for problems in Geometry and Topology. In particular, I am interested in Topological Data Analysis and triangulations of submanifolds.
 
+- Contact: siddharth.pritam@snu.edu.in
+- Office: C320 G, Ext: 367.
+
 ## Education
 - PhD : 2016 - 2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), team - [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France](https://www.inria.fr/en/inria-centre-universite-cote-azur). Links to my thesis [Collapses and Persistent Homology](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.) and the [defense](https://www.youtube.com/watch?v=AqsYrT-qUC0).
 
@@ -27,7 +30,7 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
 
 
-- Software:
+## Software
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
 ## Teaching
