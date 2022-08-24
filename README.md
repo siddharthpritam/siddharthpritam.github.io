@@ -23,6 +23,7 @@ My research interests are to design and analyse efficient algorithms for problem
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 
 - Journal:
+1. [Strong collapse and persistent homology](https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291), Journal of Topology and Analysis. With [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) and Divyansh Pareek.
 
 <!-- /Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
