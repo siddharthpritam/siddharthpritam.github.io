@@ -23,7 +23,16 @@ My research interests are to design and analyse efficient algorithms for problem
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 
 - Journal:
-1. [Strong collapse and persistent homology](https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291), Journal of Topology and Analysis. With [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) and Divyansh Pareek.
+1. [Strong collapse and persistent homology](https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291), Journal of Topology and Analysis 2021. With [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) and Divyansh Pareek.
+2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
+
+
+-Software:
+1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
+
+## Recent Talks
+1. Aatrn Online Seminars, Aug'22 : [Swap, Shift and Trim to edge collapse a filtration](https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s).
+
 
 <!-- /Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
