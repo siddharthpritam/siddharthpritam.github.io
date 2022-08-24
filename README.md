@@ -27,7 +27,7 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
 
 
--Software:
+- Software:
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
 ## Recent Talks
