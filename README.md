@@ -3,6 +3,8 @@
 I am assistant professor in the [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home). 
 My research interests are to design and analyse efficient algorithms for problems in Geometry and Topology. In particular, I am interested in Topological Data Analysis and triangulations of submanifolds.
 
+I am one of the developer and designer of the [edge collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/). The module is a state-of-the-art simplification software to speed-up the computation of persistent homology of a flag filtration.
+
 - Contact: siddharth.pritam@snu.edu.in
 - Office: C320 G, Ext: 367.
 
