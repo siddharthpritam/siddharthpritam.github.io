@@ -45,6 +45,7 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 2. Theory of Computation. Semesters: Spring 22.
 
 ## Recent Talks
+1. IISc, Bangalore, India, Oct'22:  TDA Basics, Computations and Applications.
 1. Aatrn Online Seminars, Aug'22 : [Swap, Shift and Trim to edge collapse a filtration](https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s).
 2. Persistent Homology, theory and computation, Feb'2020, FGV Rio De Janeiro, Brazil.
 3. Strong Collapse and Persistence, May'2018, UAB Barcelona, Spain.
