@@ -1,6 +1,6 @@
 ## Welcome
 
-I am assistant professor in the [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home). 
+I am an assistant professor in the [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home). 
 My research interests are to design and analyse efficient algorithms for problems in Geometry and Topology. In particular, I am interested in Topological Data Analysis and triangulations of submanifolds.
 
 I have co-developed the [edge collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse. The module is the state-of-the-art simplification software to speed-up the computation of persistent homology of a flag filtration.
@@ -20,6 +20,7 @@ I have co-developed the [edge collapse module](https://gudhi.inria.fr/doc/latest
 
 ## Recent Publications
 - Confrence:
+1. {Filtration-Domination in Bifiltered Graphs} with {A. J. Alonso} and [M. Kerber](http://www.geometrie.tugraz.at/kerber/) To appear in [ALENEX 2023](https://www.siam.org/conferences/cm/conference/alenex23).
 1. [Swap, Shift and Trim to Edge Collapse a Filtration](https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf) with [Marc Glisse](https://geometrica.saclay.inria.fr/team/Marc.Glisse/) at [SoCG'2022](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/socg.html).
 2. [Edge Collapse and Persistence of Flag Complexes](https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at [SoCG'2020](https://socg20.inf.ethz.ch/).
 3. [Computing Persistent Homology of Flag Complexes via Strong Collapses](https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at SoCG 2019.
