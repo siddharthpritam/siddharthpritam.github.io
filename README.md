@@ -19,7 +19,7 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 - Undergradute (BS+MS): 2006 - 2011. [IIT Kharagpur](http://www.iitkgp.ac.in/) Mathematics and Computing.
 
 ## Positions
-- Assistant Professor: July'23 - Current, [Chennai Mathematical Institute](https://www.cmi.ac.in//), Chennai, India.
+- Assistant Professor: July'23 - current, [Chennai Mathematical Institute](https://www.cmi.ac.in//), Chennai, India.
 - Assistant Professor : July'21 - June'23, [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home)
 - Post-Doctoral Fellow : Oct'20 - May'21, [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur).
 - Data Science Analyst : July'11 - Apr'15, [FICO](https://www.fico.com/en/about-us) Bangalore, India.
