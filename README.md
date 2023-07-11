@@ -5,7 +5,7 @@ My research interests are to design and analyse efficient algorithms for problem
 
 I have co-developed the [edge collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse. The module is the state-of-the-art simplification software to speed-up the computation of persistent homology of a flag filtration.
 
-- Contact: spritam@scmi.ac.in
+- Contact: spritam@cmi.ac.in
 - Office: 306, 3rd Floor.
 ## Research Interest
 - Topological Data Analysis.
