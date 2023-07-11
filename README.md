@@ -5,8 +5,8 @@ My research interests are to design and analyse efficient algorithms for problem
 
 I have co-developed the [edge collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse. The module is the state-of-the-art simplification software to speed-up the computation of persistent homology of a flag filtration.
 
-- Contact: siddharth.pritam@snu.edu.in
-- Office: C320 G, Ext: 367.
+- Contact: spritam@scmi.ac.in
+- Office: 306, 3rd Floor.
 ## Research Interest
 - Topological Data Analysis.
 - Applied Algebraic Topology.
@@ -18,7 +18,8 @@ I have co-developed the [edge collapse module](https://gudhi.inria.fr/doc/latest
 - Undergradute (BS+MS): 2006 - 2011. [IIT Kharagpur](http://www.iitkgp.ac.in/) Mathematics and Computing.
 
 ## Positions
-- Assistant Professor : July'21 - Present, [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home)
+- Assistant Professor: July'23 - Current, [Chennai Mathematical Institute](https://www.cmi.ac.in//)
+- Assistant Professor : July'21 - June'23, [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home)
 - Post-Doctoral Fellow : Oct'20 - May'21, [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur).
 - Data Science Analyst : July'11 - Apr'15, [FICO](https://www.fico.com/en/about-us) Bangalore, India.
 
@@ -41,6 +42,8 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
 ## Teaching
+
+At Shiv Nadar Universtiy:
 1. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
 2. Theory of Computation. Semesters: Spring 22.
 
