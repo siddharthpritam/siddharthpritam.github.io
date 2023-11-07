@@ -43,10 +43,11 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
 ## Teaching
-At Chennai Mathematical Institute
+At Chennai Mathematical Institute:
 1. Topological Data Analysis: Monsoon 23.
    
 At Shiv Nadar Universtiy:
+
 2. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
 3. Theory of Computation. Semesters: Spring 21 and 22.
 
