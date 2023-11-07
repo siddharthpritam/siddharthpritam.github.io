@@ -7,7 +7,7 @@ My research interests are to design and analyse efficient algorithms for problem
 Glisse. The module is the state-of-the-art simplification software to speed-up the computation of persistent homology of a flag filtration. -->
 
 - Contact: spritam@cmi.ac.in
-- Office: 306, 3rd Floor.
+- Office: GR-6, Ground Floor.
 ## Research Interest
 - Topological Data Analysis.
 - Applied Algebraic Topology.
@@ -43,9 +43,11 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
 ## Teaching
+At Chennai Mathematical Institute
+1. Topological Data Analysis: Monsoon 23.
 At Shiv Nadar Universtiy:
 1. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
-2. Theory of Computation. Semesters: Spring 22.
+2. Theory of Computation. Semesters: Spring 21 and 22.
 
 ## Recent Talks
 1. IISc, Bangalore, India, Oct'22:  TDA Basics, Computations and Applications.
