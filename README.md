@@ -45,9 +45,10 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 ## Teaching
 At Chennai Mathematical Institute
 1. Topological Data Analysis: Monsoon 23.
+   
 At Shiv Nadar Universtiy:
-1. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
-2. Theory of Computation. Semesters: Spring 21 and 22.
+2. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
+3. Theory of Computation. Semesters: Spring 21 and 22.
 
 ## Recent Talks
 1. IISc, Bangalore, India, Oct'22:  TDA Basics, Computations and Applications.
