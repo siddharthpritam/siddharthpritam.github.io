@@ -26,24 +26,6 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 
 ## Recent Publications
 - Confrence:
-1. @InProceedings{boissonnat_et_al:LIPIcs.SoCG.2024.21,
-  author =	{ and Pritam, Siddharth},
-  title =	{{}},
-  booktitle =	{40th International Symposium on Computational Geometry (SoCG 2024)},
-  pages =	{21:1--21:16},
-  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
-  ISBN =	{978-3-95977-316-4},
-  ISSN =	{1868-8969},
-  year =	{2024},
-  volume =	{293},
-  editor =	{Mulzer, Wolfgang and Phillips, Jeff M.},
-  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
-  address =	{Dagstuhl, Germany},
-  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21},
-  URN =		{urn:nbn:de:0030-drops-199661},
-  doi =		{10.4230/LIPIcs.SoCG.2024.21},
-  annote =	{Keywords: Computational Topology, Topological Data Analysis, Strong Collapse, Simple Collapse, Persistent homology, Random simplicial complexes}
-}
 1. [On Edge Collapse of Random Simplicial Complexes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21) with J.D. Boissonnat, K. Dutta and S. Dutta at [SoCG'2024](https://socg24.athenarc.gr/socg.html).
 2. [Filtration-Domination in Bifiltered Graphs](http://arxiv.org/abs/2211.05574) with A. J. Alonso and [M. Kerber](http://www.geometrie.tugraz.at/kerber/) at [ALENEX 2023](https://www.siam.org/conferences/cm/conference/alenex23).
 3. [Swap, Shift and Trim to Edge Collapse a Filtration](https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf) with [Marc Glisse](https://geometrica.saclay.inria.fr/team/Marc.Glisse/) at [SoCG'2022](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/socg.html).
