@@ -1,6 +1,7 @@
 ## Welcome
 
 I am an assistant professor in the Computer Science group at [Chennai Mathematical Institute](https://www.cmi.ac.in//). Currently, I am on leave and spending a semester at the University of Newcastle, NSW, Australia.
+
 My research interests are to design and analyse efficient algorithms for problems in Geometry and Topology. 
 
 <!-- have co-developed the [edge collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc 
