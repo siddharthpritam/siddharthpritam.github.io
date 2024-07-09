@@ -1,6 +1,6 @@
 ## Welcome
 
-I am an assistant professor in the Computer Science group at [Chennai Mathematical Institute](https://www.cmi.ac.in//). 
+I am an assistant professor in the Computer Science group at [Chennai Mathematical Institute, India](https://www.cmi.ac.in//). 
 Currently I am on leave and spending a semester at the University of Newcastle, NSW, Australia.
 
 My research interests are to design and analyse efficient algorithms for problems in Geometry and Topology. 
