@@ -56,11 +56,15 @@ At Shiv Nadar Universtiy:
 2. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
 3. Theory of Computation. Semesters: Spring 21 and 22.
 
+## Short Courses
+1. [Data Science Summer School 2024 – Tensor Data Analysis and Topological Data Analysis, IIT Madras](https://dsai.iitm.ac.in/2024/07/04/data-science-summer-school-2024/).
+   
 ## Recent Talks
-1. IISc, Bangalore, India, Oct'22:  TDA Basics, Computations and Applications.
-1. Aatrn Online Seminars, Aug'22 : [Swap, Shift and Trim to edge collapse a filtration](https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s).
-2. Persistent Homology, theory and computation, Feb'2020, FGV Rio De Janeiro, Brazil.
-3. Strong Collapse and Persistence, May'2018, UAB Barcelona, Spain.
+1. University of Sydney, Australia, Aug'24: TDA Basics and Applications. 
+2. IISc, Bangalore, India, Oct'22:  TDA Basics, Computations and Applications.
+3. Aatrn Online Seminars, Aug'22 : [Swap, Shift and Trim to edge collapse a filtration](https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s).
+4. Persistent Homology, theory and computation, Feb'2020, FGV Rio De Janeiro, Brazil.
+5. Strong Collapse and Persistence, May'2018, UAB Barcelona, Spain.
 
 <!-- /Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
