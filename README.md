@@ -1,6 +1,6 @@
 ## Welcome
 
-Faculty member in the Computer Science group at [Chennai Mathematical Institute, India](https://www.cmi.ac.in//). 
+I am a faculty member in the Computer Science group at [Chennai Mathematical Institute, India](https://www.cmi.ac.in//). 
 Currently on leave and spending a semester at the University of Newcastle, NSW, Australia.
 
 My research interests are to design and analyse efficient algorithms for problems in Geometry and Topology. 
