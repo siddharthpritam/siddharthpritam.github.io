@@ -1,14 +1,12 @@
 ## Welcome
 
 I am a faculty member in the Computer Science group at [Chennai Mathematical Institute, India](https://www.cmi.ac.in//). 
-Currently on leave and spending a semester at the University of Newcastle, NSW, Australia.
-
 My research interests are to design and analyse efficient algorithms for problems in Geometry and Topology. 
 
 <!-- have co-developed the [edge collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc 
 Glisse. The module is the state-of-the-art simplification software to speed-up the computation of persistent homology of a flag filtration. -->
 
-- Contact: spritam@cmi.ac.in, siddharth.pritam@newcastle.edu.au 
+- Contact: spritam@cmi.ac.in. 
 - Office: GR-6, Ground Floor.
 ## Research Interest
 - Topological Data Analysis.
@@ -50,6 +48,8 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 ## Teaching
 At Chennai Mathematical Institute:
 1. Topological Data Analysis: Monsoon 23.
+2. Undecidability in Topology: Spring 24.
+3. Computational Topology and Geometry: Spring 25.
    
 At Shiv Nadar Universtiy:
 
