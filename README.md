@@ -41,6 +41,8 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 1. [Strong collapse and persistent homology](https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291), Journal of Topology and Analysis 2021. With [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) and Divyansh Pareek.
 2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
 
+- Preprint:
+1. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) with R. Roy and Madhav C. S.
 
 ## Software
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
