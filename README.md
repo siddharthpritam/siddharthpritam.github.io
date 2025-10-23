@@ -36,8 +36,6 @@ Past:
 6. [Computing Persistent Homology of Flag Complexes via Strong Collapses](https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at SoCG 2019.
 7. [Strong Collapse for Persistence]() with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)  and Divyansh Pareek at  [ESA 2018](http://algo2018.hiit.fi/esa/)
 
-See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
-
 - Journal:
 1. [Strong collapse and persistent homology](https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291), Journal of Topology and Analysis 2021. With [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) and Divyansh Pareek.
 2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
@@ -45,6 +43,8 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 - Preprint:
 1. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025. with D. Peek, M. P. Skerritt, and S. K. Chalup.
 2. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) 2025. with R. Roy and Madhav C. S.
+
+See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 
 ## Software
 1. [Directed Edge Collapse](https://zenodo.org/records/17310902) also at [Github](https://github.com/dircoll/DirEdgeCollapser) With Rohit Roy.
