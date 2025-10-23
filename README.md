@@ -28,7 +28,7 @@ Past:
 
 ## Recent Publications
 - Confrence:
-1. [Collapse and Persistence of Directed Filtered Graphs (with R. Roy)], to appear at [ALENEX’26](https://www.siam.org/conferences-events/siam-conferences/alenex26/program/accepted-papers/).
+1. Collapse and Persistence of Directed Filtered Graphs with R. Roy, to appear at [ALENEX’26](https://www.siam.org/conferences-events/siam-conferences/alenex26/program/accepted-papers/).
 2. [On Edge Collapse of Random Simplicial Complexes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21) with J.D. Boissonnat, K. Dutta and S. Dutta at [SoCG'2024](https://socg24.athenarc.gr/socg.html).
 3. [Filtration-Domination in Bifiltered Graphs](http://arxiv.org/abs/2211.05574) with A. J. Alonso and [M. Kerber](http://www.geometrie.tugraz.at/kerber/) at [ALENEX 2023](https://www.siam.org/conferences/cm/conference/alenex23).
 4. [Swap, Shift and Trim to Edge Collapse a Filtration](https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf) with [Marc Glisse](https://geometrica.saclay.inria.fr/team/Marc.Glisse/) at [SoCG'2022](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/socg.html).
@@ -43,7 +43,8 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
 
 - Preprint:
-1. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) with R. Roy and Madhav C. S.
+1. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) with D. Peek, M. P. Skerritt, and S. K. Chalup.
+2. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) with R. Roy and Madhav C. S.
 
 ## Software
 1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
