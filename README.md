@@ -57,10 +57,9 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
    
 ## Recent Talks
 1. University of Sydney, Australia, Aug'24: TDA Basics and Applications. 
-2. IISc, Bangalore, India, Oct'22:  TDA Basics, Computations and Applications.
-3. Aatrn Online Seminars, Aug'22 : [Swap, Shift and Trim to edge collapse a filtration](https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s).
-4. Persistent Homology, theory and computation, Feb'2020, FGV Rio De Janeiro, Brazil.
-5. Strong Collapse and Persistence, May'2018, UAB Barcelona, Spain.
+2. Aatrn Online Seminars, Aug'22 : [Swap, Shift and Trim to edge collapse a filtration](https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s).
+3. Persistent Homology, theory and computation, Feb'2020, FGV Rio De Janeiro, Brazil.
+4. Strong Collapse and Persistence, May'2018, UAB Barcelona, Spain.
 
 <!-- /Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
