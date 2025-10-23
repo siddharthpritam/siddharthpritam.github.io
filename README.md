@@ -16,7 +16,7 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 ## Education
 - PhD : 2016 - 2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), [Thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.).
 
-- Undergradute (BS+MS): 2006 - 2011. [IIT Kharagpur](http://www.iitkgp.ac.in/) Mathematics and Computing.
+- Undergradute (BS+MS): 2006 - 2011. Mathematics and Computing, [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 ## Positions
 - Assistant Professor: July'23 - current, [Chennai Mathematical Institute](https://www.cmi.ac.in//), Chennai, India.
