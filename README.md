@@ -47,7 +47,7 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 2. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) with R. Roy and Madhav C. S.
 
 ## Software
-1. [Directed Edge Collapse](https://zenodo.org/records/17310902)(https://github.com/dircoll/DirEdgeCollapser) With Rohit Roy.
+1. [Directed Edge Collapse](https://zenodo.org/records/17310902) also at [Github](https://github.com/dircoll/DirEdgeCollapser) With Rohit Roy.
 2. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
 ## Teaching
