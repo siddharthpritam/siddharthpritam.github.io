@@ -14,7 +14,7 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 - Triangulations of Submanifolds.
 
 ## Education
-- PhD : 2016 - 2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/). Here is the link to my thesis [Collapses and Persistent Homology](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.).
+- PhD : 2016 - 2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), [Thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.).
 
 - Undergradute (BS+MS): 2006 - 2011. [IIT Kharagpur](http://www.iitkgp.ac.in/) Mathematics and Computing.
 
