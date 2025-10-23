@@ -8,6 +8,7 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 
 - Contact: spritam@cmi.ac.in. 
 - Office: GR-6, Ground Floor.
+  
 ## Research Interest
 - Topological Data Analysis.
 - Applied Algebraic Topology.
