@@ -47,19 +47,15 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 2. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) with R. Roy and Madhav C. S.
 
 ## Software
-1. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
+1. [Directed Edge Collapse](https://zenodo.org/records/17310902)(https://github.com/dircoll/DirEdgeCollapser) With Rohit Roy.
+2. [Edge Collapse module](https://gudhi.inria.fr/doc/latest/group__edge__collapse.html) in [Gudhi](https://gudhi.inria.fr/) with Marc Glisse.
 
 ## Teaching
 At Chennai Mathematical Institute:
-1. Topological Data Analysis: Monsoon 23.
-2. Undecidability in Topology: Spring 24.
-3. Computational Topology and Geometry: Spring 25.
+- Topological Data Analysis, Undecidability in Topology, Computational Topology and Geometry, Design and Analysis of Algorithms.
    
 At Shiv Nadar Universtiy:
-
-2. Design and Analysis of Algorithms. Semesters: Monsoon 21 and 22.
-3. Theory of Computation. Semesters: Spring 21 and 22.
-
+- Design and Analysis of Algorithms, Theory of Computation. 
 ## Short Courses
 1. [Data Science Summer School 2024 – Tensor Data Analysis and Topological Data Analysis, IIT Madras](https://dsai.iitm.ac.in/2024/07/04/data-science-summer-school-2024/).
    
