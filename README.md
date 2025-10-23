@@ -43,8 +43,8 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
 
 - Preprint:
-1. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) with D. Peek, M. P. Skerritt, and S. K. Chalup.
-2. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) with R. Roy and Madhav C. S.
+1. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025. with D. Peek, M. P. Skerritt, and S. K. Chalup.
+2. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) 2025. with R. Roy and Madhav C. S.
 
 ## Software
 1. [Directed Edge Collapse](https://zenodo.org/records/17310902) also at [Github](https://github.com/dircoll/DirEdgeCollapser) With Rohit Roy.
