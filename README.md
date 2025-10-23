@@ -53,7 +53,7 @@ See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 ## Teaching
 - Topological Data Analysis, Undecidability in Topology, Computational Topology and Geometry,
 - Design and Analysis of Algorithms, Theory of Computation. 
-- A short Course on Persistent Homology at [Data Science Summer School 2024 – Tensor Data Analysis and Topological Data Analysis, IIT Madras](https://dsai.iitm.ac.in/2024/07/04/data-science-summer-school-2024/).
+- A short course on Persistent Homology at [Data Science Summer School 2024 – Tensor Data Analysis and Topological Data Analysis, IIT Madras](https://dsai.iitm.ac.in/2024/07/04/data-science-summer-school-2024/).
    
 ## Recent Talks
 1. University of Sydney, Australia, Aug'24: TDA Basics and Applications. 
