@@ -8,14 +8,12 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 
 - Contact: spritam@cmi.ac.in. 
 - Office: GR-6, Ground Floor.
+  
 ## News
 We are co-organizing the first school of the [**OneMath World School**](https://www.birs.ca/announcements/2025-05-28/Onemath-World-School), a [**BIRS**](https://www.birs.ca/) initiative and the first of its kind, on *Introduction to Topological Data Analysis*.  
 
 Please visit this [link](https://www.cmi.ac.in/~pdeshpande/tda_omws_2026.html) for more information and registration details.  
 
-
-
-  
 ## Research Interest
 - Topological Data Analysis.
 - Applied Algebraic Topology.
