@@ -47,7 +47,7 @@ Please visit this [link](https://www.cmi.ac.in/~pdeshpande/tda_omws_2026.html) f
 
 - Preprint:
 1. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025. with D. Peek, M. P. Skerritt, and S. K. Chalup.
-2. [Classification of Temporal Graphs using Persistent Homology](https://arxiv.org/pdf/2502.10076) 2025. with R. Roy and Madhav C. S.
+2. [Filtration-Based Representation Learning for Temporal Graphs](https://arxiv.org/pdf/2502.10076) 2025. with R. Roy and Madhav C. S.
 
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 
