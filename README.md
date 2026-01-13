@@ -33,9 +33,9 @@ Please visit this [link](https://www.cmi.ac.in/~pdeshpande/tda_omws_2026.html) f
 
 ## Recent Publications
 - Confrence:
-1. [Collapse and Persistence of Directed Filtered Graphs](https://doi.org/10.1137/1.9781611978957.14) with R. Roy, at [ALENEX’26](https://www.siam.org/conferences-events/siam-conferences/alenex26/).
+1. [Collapse and Persistence of Directed Filtered Graphs](https://doi.org/10.1137/1.9781611978957.14) with R. Roy, at ALENEX’26.
 2. [On Edge Collapse of Random Simplicial Complexes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21) with J.D. Boissonnat, K. Dutta and S. Dutta at [SoCG'2024](https://socg24.athenarc.gr/socg.html).
-3. [Filtration-Domination in Bifiltered Graphs](http://arxiv.org/abs/2211.05574) with A. J. Alonso and [M. Kerber](http://www.geometrie.tugraz.at/kerber/) at [ALENEX 2023](https://www.siam.org/conferences/cm/conference/alenex23).
+3. [Filtration-Domination in Bifiltered Graphs](http://arxiv.org/abs/2211.05574) with A. J. Alonso and [M. Kerber](http://www.geometrie.tugraz.at/kerber/) at ALENEX 2023.
 4. [Swap, Shift and Trim to Edge Collapse a Filtration](https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf) with [Marc Glisse](https://geometrica.saclay.inria.fr/team/Marc.Glisse/) at [SoCG'2022](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/socg.html).
 5. [Edge Collapse and Persistence of Flag Complexes](https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at [SoCG'2020](https://socg20.inf.ethz.ch/).
 6. [Computing Persistent Homology of Flag Complexes via Strong Collapses](https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at SoCG 2019.
@@ -47,8 +47,8 @@ Please visit this [link](https://www.cmi.ac.in/~pdeshpande/tda_omws_2026.html) f
 
 - Preprint:
 1. [Condorcet’s Paradox as Non-Orientability](https://arxiv.org/pdf/2601.07283) 2026, with O. Livson and M. Prokopenko.
-2. [Filtration-Based Representation Learning for Temporal Graphs](https://arxiv.org/pdf/2502.10076) 2025. with S. Chowdhury, R. Roy and Madhav C. S.
-3. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025. with D. Peek, M. P. Skerritt, and S. K. Chalup.
+2. [Filtration-Based Representation Learning for Temporal Graphs](https://arxiv.org/pdf/2502.10076) 2025, with S. Chowdhury, R. Roy and Madhav C. S.
+3. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025, with D. Peek, M. P. Skerritt, and S. K. Chalup.
 
 
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
