@@ -46,8 +46,10 @@ Please visit this [link](https://www.cmi.ac.in/~pdeshpande/tda_omws_2026.html) f
 2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
 
 - Preprint:
-1. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025. with D. Peek, M. P. Skerritt, and S. K. Chalup.
+1. [Condorcet’s Paradox as Non-Orientability](https://arxiv.org/pdf/2601.07283) 2026, with O. Livson and M. Prokopenko.
 2. [Filtration-Based Representation Learning for Temporal Graphs](https://arxiv.org/pdf/2502.10076) 2025. with S. Chowdhury, R. Roy and Madhav C. S.
+3. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025. with D. Peek, M. P. Skerritt, and S. K. Chalup.
+
 
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
 
