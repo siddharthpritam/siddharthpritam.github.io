@@ -9,11 +9,6 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 - Contact: spritam@cmi.ac.in. 
 - Office: GR-6, Ground Floor.
   
-## News
-We are co-organizing the first school of the [**OneMath World School**](https://www.birs.ca/announcements/2025-05-28/Onemath-World-School), a [**BIRS**](https://www.birs.ca/) initiative and the first of its kind, on *Introduction to Topological Data Analysis*.  
-
-Please visit this [link](https://www.cmi.ac.in/~pdeshpande/tda_omws_2026.html) for more information and registration details.  
-
 ## Research Interest
 - Topological Data Analysis.
 - Applied Algebraic Topology.
@@ -42,13 +37,13 @@ Please visit this [link](https://www.cmi.ac.in/~pdeshpande/tda_omws_2026.html) f
 7. [Strong Collapse for Persistence]() with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)  and Divyansh Pareek at  [ESA 2018](http://algo2018.hiit.fi/esa/)
 
 - Journal:
-1. [Strong collapse and persistent homology](https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291), Journal of Topology and Analysis 2021. With [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) and Divyansh Pareek.
-2. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
+1.  [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.sciencedirect.com/science/article/pii/S0925231226009380) in Neurocomputing 2026, with D. Peek, M. P. Skerritt, and S. K. Chalup.
+2. [Strong collapse and persistent homology](https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291), Journal of Topology and Analysis 2021. With [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) and Divyansh Pareek.
+3. [Information Dynamics in Small-World Boolean Networks.](https://doi.org/10.1162/artl_a_00040)  Artificial Life 2011. With	Joseph T. Lizier and Mikhail Prokopenko.
 
 - Preprint:
 1. [Condorcet’s Paradox as Non-Orientability](https://arxiv.org/pdf/2601.07283) 2026, with O. Livson and M. Prokopenko.
 2. [Filtration-Based Representation Learning for Temporal Graphs](https://arxiv.org/pdf/2502.10076) 2025, with S. Chowdhury, R. Roy and Madhav C. S.
-3. [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.arxiv.org/abs/2508.19048) 2025, with D. Peek, M. P. Skerritt, and S. K. Chalup.
 
 
 See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
