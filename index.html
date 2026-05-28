@@ -6,47 +6,30 @@
   <meta name="description" content="Siddharth Pritam — Assistant Professor at Chennai Mathematical Institute. Computational topology, topological data analysis, and persistent homology." />
   <title>Siddharth Pritam</title>
   <style>
+    :root {
+      --text: #161616;
+      --muted: #5c5c5c;
+      --light: #f6f6f6;
+      --line: #d9d9d9;
+      --link: #0645ad;
+      --max: 980px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
-      padding: 0;
       background: #ffffff;
-      color: #111111;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: 17px;
-      line-height: 1.58;
-    }
-
-    .page {
-      max-width: 880px;
-      margin: 0 auto;
-      padding: 42px 24px 64px;
-    }
-
-    header {
-      border-bottom: 1px solid #d8d8d8;
-      padding-bottom: 22px;
-      margin-bottom: 32px;
-    }
-
-    h1 {
-      font-size: 36px;
-      font-weight: 500;
-      margin: 0 0 8px;
-      line-height: 1.2;
-    }
-
-    .position {
-      margin: 0 0 12px;
-      color: #333333;
-    }
-
-    .links {
-      font-size: 15px;
-      color: #555555;
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.62;
     }
 
     a {
-      color: #0645ad;
+      color: var(--link);
       text-decoration: none;
     }
 
@@ -54,40 +37,140 @@
       text-decoration: underline;
     }
 
+    .container {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 36px 24px 64px;
+    }
+
+    header {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 32px;
+      align-items: start;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 40px;
+      line-height: 1.15;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    .role {
+      margin: 10px 0 0;
+      font-size: 18px;
+      color: #333333;
+    }
+
+    .area {
+      margin: 14px 0 0;
+      color: var(--muted);
+    }
+
+    .contact-box {
+      background: var(--light);
+      border: 1px solid var(--line);
+      padding: 18px 20px;
+      border-radius: 8px;
+      font-size: 15px;
+    }
+
+    .contact-box p {
+      margin: 0 0 8px;
+    }
+
+    .contact-box p:last-child {
+      margin-bottom: 0;
+    }
+
     nav {
-      margin-top: 18px;
+      margin-top: 22px;
+      padding-bottom: 22px;
+      border-bottom: 1px solid var(--line);
       font-size: 15px;
     }
 
     nav a {
-      margin-right: 16px;
+      margin-right: 18px;
       white-space: nowrap;
     }
 
     section {
-      margin: 34px 0;
+      padding: 34px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    section:last-of-type {
+      border-bottom: none;
     }
 
     h2 {
-      font-size: 22px;
-      font-weight: 500;
-      margin: 0 0 14px;
-      border-bottom: 1px solid #e2e2e2;
-      padding-bottom: 4px;
+      margin: 0 0 18px;
+      font-size: 24px;
+      line-height: 1.25;
+      font-weight: 600;
+      letter-spacing: -0.01em;
     }
 
     h3 {
+      margin: 26px 0 10px;
       font-size: 18px;
-      font-weight: 500;
-      margin: 24px 0 8px;
+      line-height: 1.3;
+      font-weight: 600;
     }
 
     p {
       margin: 0 0 14px;
     }
 
+    .lead {
+      font-size: 18px;
+      line-height: 1.58;
+      max-width: 850px;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-top: 18px;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 16px 18px;
+    }
+
+    .card h3 {
+      margin-top: 0;
+      font-size: 17px;
+    }
+
+    .card p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .student-box {
+      background: var(--light);
+      border-left: 4px solid #333333;
+      padding: 18px 20px;
+      margin-top: 16px;
+    }
+
     ul {
-      margin-top: 8px;
+      margin: 8px 0 0;
       padding-left: 22px;
     }
 
@@ -95,48 +178,92 @@
       margin-bottom: 10px;
     }
 
+    .pub-list {
+      list-style: none;
+      padding-left: 0;
+    }
+
     .pub-list li {
-      margin-bottom: 14px;
+      margin-bottom: 16px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid #eeeeee;
+    }
+
+    .pub-list li:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
     }
 
     .pub-title {
-      font-weight: 500;
+      font-weight: 600;
     }
 
-    .pub-venue {
-      color: #444444;
-    }
-
-    .note {
-      color: #555555;
+    .pub-details {
+      color: var(--muted);
       font-size: 15px;
+      margin-top: 3px;
+    }
+
+    .label {
+      display: inline-block;
+      font-size: 12px;
+      color: #333333;
+      background: #eeeeee;
+      border-radius: 4px;
+      padding: 2px 6px;
+      margin-left: 6px;
+      vertical-align: 1px;
     }
 
     .two-column {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      column-gap: 32px;
+      gap: 26px;
+    }
+
+    .timeline {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .timeline li {
+      display: grid;
+      grid-template-columns: 150px 1fr;
+      gap: 20px;
+      margin-bottom: 12px;
+    }
+
+    .year {
+      color: var(--muted);
+      font-size: 15px;
     }
 
     footer {
-      margin-top: 48px;
+      margin-top: 28px;
       padding-top: 18px;
-      border-top: 1px solid #d8d8d8;
-      color: #555555;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
       font-size: 14px;
     }
 
-    @media (max-width: 700px) {
-      .page {
+    @media (max-width: 760px) {
+      .container {
         padding: 28px 18px 48px;
       }
 
-      h1 {
-        font-size: 30px;
-      }
-
+      header,
+      .grid,
       .two-column {
         grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 34px;
+      }
+
+      .timeline li {
+        grid-template-columns: 1fr;
+        gap: 2px;
       }
 
       nav a {
@@ -147,91 +274,113 @@
   </style>
 </head>
 <body>
-  <div class="page">
+  <div class="container">
     <header>
-      <h1>Siddharth Pritam</h1>
-      <p class="position">Assistant Professor, Computer Science Group, Chennai Mathematical Institute</p>
-      <p class="links">
-        Email: <a href="mailto:spritam@cmi.ac.in">spritam@cmi.ac.in</a> ·
-        Office: GR-6, Ground Floor ·
-        <a href="https://dblp.org/pid/42/10192.html">DBLP</a> ·
-        <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Google Scholar</a> ·
-        <a href="https://github.com/siddharthpritam">GitHub</a>
-      </p>
-      <nav>
-        <a href="#research">Research</a>
-        <a href="#publications">Publications</a>
-        <a href="#software">Software</a>
-        <a href="#teaching">Teaching</a>
-        <a href="#education">Education</a>
-        <a href="#talks">Talks</a>
-      </nav>
+      <div>
+        <h1>Siddharth Pritam</h1>
+        <p class="role">Assistant Professor, Computer Science Group<br />Chennai Mathematical Institute</p>
+        <p class="area">Computational topology · Topological data analysis · Persistent homology</p>
+      </div>
+      <div class="contact-box">
+        <p><strong>Email:</strong> <a href="mailto:spritam@cmi.ac.in">spritam@cmi.ac.in</a></p>
+        <p><strong>Office:</strong> GR-6, Ground Floor, CMI</p>
+        <p>
+          <a href="https://dblp.org/pid/42/10192.html">DBLP</a> ·
+          <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Google Scholar</a> ·
+          <a href="https://github.com/siddharthpritam">GitHub</a>
+        </p>
+      </div>
     </header>
+
+    <nav aria-label="Main navigation">
+      <a href="#research">Research</a>
+      <a href="#publications">Publications</a>
+      <a href="#software">Software</a>
+      <a href="#teaching">Teaching</a>
+      <a href="#education">Education</a>
+      <a href="#talks">Talks</a>
+    </nav>
 
     <section id="research">
       <h2>Research</h2>
-      <p>
-        My research is in computational topology and topological data analysis, with a focus on algorithms for persistent homology. I am particularly interested in combinatorial reductions of simplicial complexes and filtrations, such as edge collapses and strong collapses, that preserve relevant topological and persistence information.
+      <p class="lead">
+        My research is in computational topology and topological data analysis, with a focus on algorithms for persistent homology. A recurring theme in my work is the simplification of simplicial complexes and filtrations through combinatorial reductions, such as strong collapses and edge collapses, while preserving relevant topological and persistence information.
       </p>
       <p>
-        More broadly, I work on problems at the interface of algebraic topology, computational geometry, and algorithms, especially where topological methods can be used to study large discrete or geometric data.
+        More broadly, I am interested in problems at the interface of algebraic topology, computational geometry, and theoretical computer science, especially where topological methods provide robust summaries of large discrete or geometric data.
       </p>
-      <p class="note">
-        Keywords: computational topology, topological data analysis, persistent homology, simplicial complexes, filtered complexes, discrete Morse theory.
+      <p>
+        Current directions include filtration-aware reductions, directed and multiparameter persistence, discrete Morse theoretic methods, and topological representations of graph-structured and temporal data.
       </p>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Persistent homology</h3>
+          <p>Algorithms, reductions, and structural questions for filtered complexes and graphs.</p>
+        </div>
+        <div class="card">
+          <h3>Collapses and reductions</h3>
+          <p>Strong collapses, edge collapses, domination, and filtration-preserving simplifications.</p>
+        </div>
+        <div class="card">
+          <h3>Topological methods for data</h3>
+          <p>Applications and foundations involving graphs, temporal data, and geometric complexes.</p>
+        </div>
+      </div>
     </section>
+
 
     <section id="publications">
       <h2>Selected publications</h2>
-      <p class="note">
+      <p class="muted">
         A complete and updated list is available on <a href="https://dblp.org/pid/42/10192.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Google Scholar</a>.
       </p>
 
       <h3>Conference papers</h3>
       <ul class="pub-list">
         <li>
-          <span class="pub-title"><a href="https://doi.org/10.1137/1.9781611978957.14">Collapse and Persistence of Directed Filtered Graphs</a></span><br />
-          <span class="pub-venue">with Rohit Roy. ALENEX 2026.</span>
+          <div class="pub-title"><a href="https://doi.org/10.1137/1.9781611978957.14">Collapse and Persistence of Directed Filtered Graphs</a> <span class="label">ALENEX 2026</span></div>
+          <div class="pub-details">with Rohit Roy.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21">On Edge Collapse of Random Simplicial Complexes</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat, Kunal Dutta, and Sayan Dutta. SoCG 2024.</span>
+          <div class="pub-title"><a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21">On Edge Collapse of Random Simplicial Complexes</a> <span class="label">SoCG 2024</span></div>
+          <div class="pub-details">with Jean-Daniel Boissonnat, Kunal Dutta, and Sayan Dutta.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://arxiv.org/abs/2211.05574">Filtration-Domination in Bifiltered Graphs</a></span><br />
-          <span class="pub-venue">with Ángel Javier Alonso and Michael Kerber. ALENEX 2023.</span>
+          <div class="pub-title"><a href="https://arxiv.org/abs/2211.05574">Filtration-Domination in Bifiltered Graphs</a> <span class="label">ALENEX 2023</span></div>
+          <div class="pub-details">with Ángel Javier Alonso and Michael Kerber.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf">Swap, Shift and Trim to Edge Collapse a Filtration</a></span><br />
-          <span class="pub-venue">with Marc Glisse. SoCG 2022.</span>
+          <div class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf">Swap, Shift and Trim to Edge Collapse a Filtration</a> <span class="label">SoCG 2022</span></div>
+          <div class="pub-details">with Marc Glisse.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf">Edge Collapse and Persistence of Flag Complexes</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat. SoCG 2020.</span>
+          <div class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf">Edge Collapse and Persistence of Flag Complexes</a> <span class="label">SoCG 2020</span></div>
+          <div class="pub-details">with Jean-Daniel Boissonnat.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf">Computing Persistent Homology of Flag Complexes via Strong Collapses</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat. SoCG 2019.</span>
+          <div class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf">Computing Persistent Homology of Flag Complexes via Strong Collapses</a> <span class="label">SoCG 2019</span></div>
+          <div class="pub-details">with Jean-Daniel Boissonnat.</div>
         </li>
       </ul>
 
       <h3>Journal papers and preprints</h3>
       <ul class="pub-list">
         <li>
-          <span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0925231226009380">Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology</a></span><br />
-          <span class="pub-venue">with D. Peek, M. P. Skerritt, and S. K. Chalup. Neurocomputing, 2026.</span>
+          <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0925231226009380">Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology</a></div>
+          <div class="pub-details">with D. Peek, M. P. Skerritt, and S. K. Chalup. Neurocomputing, 2026.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291">Strong Collapse and Persistent Homology</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat and Divyansh Pareek. Journal of Topology and Analysis, 2021.</span>
+          <div class="pub-title"><a href="https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291">Strong Collapse and Persistent Homology</a></div>
+          <div class="pub-details">with Jean-Daniel Boissonnat and Divyansh Pareek. Journal of Topology and Analysis, 2021.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://arxiv.org/pdf/2601.07283">Condorcet's Paradox as Non-Orientability</a></span><br />
-          <span class="pub-venue">with Ori Livson and Mikhail Prokopenko. Preprint, 2026.</span>
+          <div class="pub-title"><a href="https://arxiv.org/pdf/2601.07283">Condorcet's Paradox as Non-Orientability</a></div>
+          <div class="pub-details">with Ori Livson and Mikhail Prokopenko. Preprint, 2026.</div>
         </li>
         <li>
-          <span class="pub-title"><a href="https://arxiv.org/pdf/2502.10076">Filtration-Based Representation Learning for Temporal Graphs</a></span><br />
-          <span class="pub-venue">with S. Chowdhury, Rohit Roy, and Madhav C. S. Preprint, 2025.</span>
+          <div class="pub-title"><a href="https://arxiv.org/pdf/2502.10076">Filtration-Based Representation Learning for Temporal Graphs</a></div>
+          <div class="pub-details">with S. Chowdhury, Rohit Roy, and Madhav C. S. Preprint, 2025.</div>
         </li>
       </ul>
     </section>
@@ -240,8 +389,7 @@
       <h2>Software</h2>
       <ul>
         <li>
-          <a href="https://github.com/dircoll/DirEdgeCollapser">Directed Edge Collapse</a>, with Rohit Roy.
-          Also archived on <a href="https://zenodo.org/records/17310902">Zenodo</a>.
+          <a href="https://github.com/dircoll/DirEdgeCollapser">Directed Edge Collapse</a>, with Rohit Roy. Also archived on <a href="https://zenodo.org/records/17310902">Zenodo</a>.
         </li>
         <li>
           <a href="https://gudhi.inria.fr/doc/latest/group__edge__collapse.html">Edge collapse module in GUDHI</a>, with Marc Glisse.
@@ -253,7 +401,7 @@
       <h2>Teaching</h2>
       <div class="two-column">
         <div>
-          <h3>Recent courses</h3>
+          <h3>Courses</h3>
           <ul>
             <li>Topological Data Analysis</li>
             <li>Computational Topology and Geometry</li>
@@ -275,12 +423,12 @@
 
     <section id="education">
       <h2>Education and positions</h2>
-      <ul>
-        <li>Assistant Professor, Chennai Mathematical Institute, July 2023–present.</li>
-        <li>Assistant Professor, Shiv Nadar University, July 2021–June 2023.</li>
-        <li>Postdoctoral Fellow, DataShape, Inria Sophia Antipolis, October 2020–May 2021.</li>
-        <li>PhD, Université Côte d'Azur/Inria Sophia Antipolis, 2016–2020. Advisor: <a href="https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/">Jean-Daniel Boissonnat</a>. <a href="https://hal.inria.fr/tel-02962587v2/document">Thesis</a>.</li>
-        <li>BS+MS in Mathematics and Computing, IIT Kharagpur, 2006–2011.</li>
+      <ul class="timeline">
+        <li><span class="year">2023–present</span><span>Assistant Professor, Chennai Mathematical Institute.</span></li>
+        <li><span class="year">2021–2023</span><span>Assistant Professor, Shiv Nadar University.</span></li>
+        <li><span class="year">2020–2021</span><span>Postdoctoral Fellow, DataShape, Inria Sophia Antipolis.</span></li>
+        <li><span class="year">2016–2020</span><span>PhD, Université Côte d'Azur / Inria Sophia Antipolis. Advisor: <a href="https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/">Jean-Daniel Boissonnat</a>. <a href="https://hal.inria.fr/tel-02962587v2/document">Thesis</a>.</span></li>
+        <li><span class="year">2006–2011</span><span>BS+MS in Mathematics and Computing, IIT Kharagpur.</span></li>
       </ul>
     </section>
 
