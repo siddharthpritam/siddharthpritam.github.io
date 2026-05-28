@@ -10,9 +10,10 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 - Office: GR-6, Ground Floor.
   
 ## Research Interest
-- Topological Data Analysis.
-- Applied Algebraic Topology.
-- Triangulations of Submanifolds.
+My research lies in **computational topology and topological data analysis**, with a focus on the algorithmic foundations of **persistent homology**. I develop combinatorial reductions of simplicial complexes and filtrations that provably preserve topological and persistence information. The goal is to make topological invariants **scalable, robust, and structurally transparent** for large discrete and geometric data.
+ 
+My research draws on ideas from algebraic topology, computational geometry, and theoretical computer science.
+
 
 ## Education
 - PhD : 2016 - 2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), [Thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.).
