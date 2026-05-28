@@ -3,23 +3,22 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Siddharth Pritam — Assistant Professor at Chennai Mathematical Institute. Computational topology, topological data analysis, and persistent homology." />
+  <meta name="description" content="Siddharth Pritam — Assistant Professor at Chennai Mathematical Institute." />
   <title>Siddharth Pritam</title>
   <style>
     body {
       margin: 0;
-      padding: 0;
-      background: #ffffff;
-      color: #111111;
+      background: #fff;
+      color: #111;
       font-family: Georgia, "Times New Roman", Times, serif;
       font-size: 17px;
-      line-height: 1.58;
+      line-height: 1.6;
     }
 
     .page {
-      max-width: 920px;
+      max-width: 900px;
       margin: 0 auto;
-      padding: 42px 24px 64px;
+      padding: 48px 24px 64px;
     }
 
     a {
@@ -33,57 +32,46 @@
 
     header {
       display: grid;
-      grid-template-columns: minmax(0, 1fr) 260px;
+      grid-template-columns: 1fr 245px;
       gap: 34px;
       align-items: start;
-      border-bottom: 1px solid #d8d8d8;
-      padding-bottom: 24px;
-      margin-bottom: 30px;
+      margin-bottom: 34px;
+      padding-bottom: 22px;
+      border-bottom: 1px solid #ddd;
     }
 
     h1 {
-      font-size: 38px;
-      font-weight: 500;
       margin: 0 0 8px;
-      line-height: 1.2;
+      font-size: 39px;
+      font-weight: 400;
+      line-height: 1.15;
+      letter-spacing: -0.015em;
     }
 
     .position {
-      margin: 0 0 10px;
-      color: #333333;
-    }
-
-    .area {
       margin: 0;
-      color: #555555;
-      font-size: 16px;
+      color: #333;
     }
 
-    .contact-sticker {
-      border: 1px solid #d0d0d0;
-      background: #fafafa;
-      padding: 14px 16px;
+    .contact {
       font-size: 14px;
       line-height: 1.45;
+      color: #333;
+      border-left: 1px solid #ddd;
+      padding-left: 18px;
     }
 
-    .contact-sticker p {
+    .contact p {
       margin: 0 0 7px;
     }
 
-    .contact-sticker p:last-child {
-      margin-bottom: 0;
-    }
-
     nav {
-      margin: 0 0 30px;
-      padding-bottom: 18px;
-      border-bottom: 1px solid #e2e2e2;
+      margin-bottom: 34px;
       font-size: 15px;
     }
 
     nav a {
-      margin-right: 16px;
+      margin-right: 15px;
       white-space: nowrap;
     }
 
@@ -92,25 +80,25 @@
     }
 
     h2 {
-      font-size: 22px;
-      font-weight: 500;
-      margin: 0 0 14px;
-      border-bottom: 1px solid #e2e2e2;
+      font-size: 21px;
+      font-weight: 400;
+      margin: 0 0 13px;
       padding-bottom: 4px;
+      border-bottom: 1px solid #e4e4e4;
     }
 
     h3 {
-      font-size: 18px;
-      font-weight: 500;
-      margin: 24px 0 8px;
+      font-size: 17px;
+      font-weight: 400;
+      margin: 22px 0 8px;
     }
 
     p {
-      margin: 0 0 14px;
+      margin: 0 0 13px;
     }
 
     ul {
-      margin-top: 8px;
+      margin: 8px 0 0;
       padding-left: 22px;
     }
 
@@ -118,60 +106,60 @@
       margin-bottom: 10px;
     }
 
+    .research-opening {
+      font-size: 18px;
+    }
+
+    .small {
+      color: #555;
+      font-size: 15px;
+    }
+
     .pub-list li {
       margin-bottom: 14px;
     }
 
     .pub-title {
-      font-weight: 500;
+      font-weight: 400;
     }
 
-    .pub-venue {
-      color: #444444;
-    }
-
-    .note {
-      color: #555555;
-      font-size: 15px;
-    }
-
-    .support-box {
-      border-left: 3px solid #777777;
-      background: #fafafa;
-      padding: 12px 16px;
-      margin-top: 8px;
+    .pub-meta {
+      color: #444;
     }
 
     .two-column {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      column-gap: 32px;
+      gap: 30px;
     }
 
     footer {
-      margin-top: 48px;
-      padding-top: 18px;
-      border-top: 1px solid #d8d8d8;
-      color: #555555;
+      margin-top: 46px;
+      padding-top: 16px;
+      border-top: 1px solid #ddd;
+      color: #555;
       font-size: 14px;
     }
 
-    @media (max-width: 760px) {
+    @media (max-width: 720px) {
       .page {
-        padding: 28px 18px 48px;
+        padding: 32px 18px 52px;
       }
 
-      header {
+      header,
+      .two-column {
         grid-template-columns: 1fr;
-        gap: 18px;
       }
 
       h1 {
-        font-size: 31px;
+        font-size: 32px;
       }
 
-      .two-column {
-        grid-template-columns: 1fr;
+      .contact {
+        border-left: none;
+        border-top: 1px solid #ddd;
+        padding-left: 0;
+        padding-top: 14px;
       }
 
       nav a {
@@ -189,20 +177,19 @@
         <p class="position">Assistant Professor, Computer Science Group<br />Chennai Mathematical Institute</p>
       </div>
 
-      <div class="contact-sticker">
-        <p><strong>Email</strong><br /><a href="mailto:spritam@cmi.ac.in">spritam@cmi.ac.in</a></p>
-        <p><strong>Office</strong><br />GR-6, Ground Floor, CMI</p>
+      <div class="contact">
+        <p><a href="mailto:spritam@cmi.ac.in">spritam@cmi.ac.in</a></p>
+        <p>Office: GR-6, Ground Floor</p>
         <p>
           <a href="https://dblp.org/pid/42/10192.html">DBLP</a> ·
-          <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Google Scholar</a> ·
+          <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Scholar</a> ·
           <a href="https://github.com/siddharthpritam">GitHub</a>
         </p>
       </div>
     </header>
 
-    <nav aria-label="Main navigation">
+    <nav>
       <a href="#research">Research</a>
-      <a href="#support">Research support</a>
       <a href="#publications">Publications</a>
       <a href="#software">Software</a>
       <a href="#teaching">Teaching</a>
@@ -212,57 +199,48 @@
 
     <section id="research">
       <h2>Research</h2>
-      <p>
-        My research is in computational topology and topological data analysis, with a focus on algorithms for persistent homology. I am particularly interested in combinatorial reductions of simplicial complexes and filtrations, such as edge collapses and strong collapses, that preserve relevant topological and persistence information.
+      <p class="research-opening">
+        I study the computational side of topology: how much of a space can be erased while preserving the information one wants to keep.
       </p>
       <p>
-        More broadly, I work on problems at the interface of algebraic topology, computational geometry, and algorithms, especially where topological methods can be used to study large discrete or geometric data.
+        My work develops reductions of simplicial complexes and filtrations for persistent homology, including strong collapses, edge collapses, and related filtration-aware simplifications. The emphasis is on algorithms that are both provably correct and useful for large discrete or geometric data.
       </p>
-    </section>
-
-    <section id="support">
-      <h2>Research support</h2>
-      <div class="support-box">
-        <p>
-          <strong>ANRF ARG Matrix Grant</strong>, 2026–2031.
-        </p>
-        <p class="note">
-          Research support for work in computational topology and topological data analysis.
-        </p>
-      </div>
+      <p>
+        A current line of work concerns reductions and stability questions in filtered, directed, and multiparameter settings. This work is supported in part by an ANRF ARG Matrix Grant, 2026–2031.
+      </p>
     </section>
 
     <section id="publications">
       <h2>Selected publications</h2>
-      <p class="note">
-        A complete and updated list is available on <a href="https://dblp.org/pid/42/10192.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Google Scholar</a>.
+      <p class="small">
+        Complete lists are available on <a href="https://dblp.org/pid/42/10192.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Google Scholar</a>.
       </p>
 
       <h3>Conference papers</h3>
       <ul class="pub-list">
         <li>
           <span class="pub-title"><a href="https://doi.org/10.1137/1.9781611978957.14">Collapse and Persistence of Directed Filtered Graphs</a></span><br />
-          <span class="pub-venue">with Rohit Roy. ALENEX 2026.</span>
+          <span class="pub-meta">with Rohit Roy. ALENEX 2026.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21">On Edge Collapse of Random Simplicial Complexes</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat, Kunal Dutta, and Sayan Dutta. SoCG 2024.</span>
+          <span class="pub-meta">with Jean-Daniel Boissonnat, Kunal Dutta, and Sayan Dutta. SoCG 2024.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://arxiv.org/abs/2211.05574">Filtration-Domination in Bifiltered Graphs</a></span><br />
-          <span class="pub-venue">with Ángel Javier Alonso and Michael Kerber. ALENEX 2023.</span>
+          <span class="pub-meta">with Ángel Javier Alonso and Michael Kerber. ALENEX 2023.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf">Swap, Shift and Trim to Edge Collapse a Filtration</a></span><br />
-          <span class="pub-venue">with Marc Glisse. SoCG 2022.</span>
+          <span class="pub-meta">with Marc Glisse. SoCG 2022.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf">Edge Collapse and Persistence of Flag Complexes</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat. SoCG 2020.</span>
+          <span class="pub-meta">with Jean-Daniel Boissonnat. SoCG 2020.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf">Computing Persistent Homology of Flag Complexes via Strong Collapses</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat. SoCG 2019.</span>
+          <span class="pub-meta">with Jean-Daniel Boissonnat. SoCG 2019.</span>
         </li>
       </ul>
 
@@ -270,19 +248,19 @@
       <ul class="pub-list">
         <li>
           <span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0925231226009380">Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology</a></span><br />
-          <span class="pub-venue">with D. Peek, M. P. Skerritt, and S. K. Chalup. Neurocomputing, 2026.</span>
+          <span class="pub-meta">with D. Peek, M. P. Skerritt, and S. K. Chalup. Neurocomputing, 2026.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291">Strong Collapse and Persistent Homology</a></span><br />
-          <span class="pub-venue">with Jean-Daniel Boissonnat and Divyansh Pareek. Journal of Topology and Analysis, 2021.</span>
+          <span class="pub-meta">with Jean-Daniel Boissonnat and Divyansh Pareek. Journal of Topology and Analysis, 2021.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://arxiv.org/pdf/2601.07283">Condorcet's Paradox as Non-Orientability</a></span><br />
-          <span class="pub-venue">with Ori Livson and Mikhail Prokopenko. Preprint, 2026.</span>
+          <span class="pub-meta">with Ori Livson and Mikhail Prokopenko. Preprint, 2026.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://arxiv.org/pdf/2502.10076">Filtration-Based Representation Learning for Temporal Graphs</a></span><br />
-          <span class="pub-venue">with S. Chowdhury, Rohit Roy, and Madhav C. S. Preprint, 2025.</span>
+          <span class="pub-meta">with S. Chowdhury, Rohit Roy, and Madhav C. S. Preprint, 2025.</span>
         </li>
       </ul>
     </section>
@@ -290,13 +268,8 @@
     <section id="software">
       <h2>Software</h2>
       <ul>
-        <li>
-          <a href="https://github.com/dircoll/DirEdgeCollapser">Directed Edge Collapse</a>, with Rohit Roy.
-          Also archived on <a href="https://zenodo.org/records/17310902">Zenodo</a>.
-        </li>
-        <li>
-          <a href="https://gudhi.inria.fr/doc/latest/group__edge__collapse.html">Edge collapse module in GUDHI</a>, with Marc Glisse.
-        </li>
+        <li><a href="https://github.com/dircoll/DirEdgeCollapser">Directed Edge Collapse</a>, with Rohit Roy. Also archived on <a href="https://zenodo.org/records/17310902">Zenodo</a>.</li>
+        <li><a href="https://gudhi.inria.fr/doc/latest/group__edge__collapse.html">Edge collapse module in GUDHI</a>, with Marc Glisse.</li>
       </ul>
     </section>
 
@@ -304,7 +277,7 @@
       <h2>Teaching</h2>
       <div class="two-column">
         <div>
-          <h3>Recent courses</h3>
+          <h3>Courses</h3>
           <ul>
             <li>Topological Data Analysis</li>
             <li>Computational Topology and Geometry</li>
@@ -313,7 +286,7 @@
           </ul>
         </div>
         <div>
-          <h3>Short courses and topics</h3>
+          <h3>Topics</h3>
           <ul>
             <li>Persistent Homology</li>
             <li>Discrete Morse Theory</li>
@@ -346,7 +319,7 @@
     </section>
 
     <footer>
-      Last updated: 2026. This page is maintained by Siddharth Pritam.
+      Last updated: 2026.
     </footer>
   </div>
 </body>
