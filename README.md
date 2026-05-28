@@ -17,24 +17,24 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 ## Education
 - PhD : 2016 - 2020. Supervisor - [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/), [Thesis](https://hal.inria.fr/tel-02962587v2/document#:~:text=The%20basic%20idea%20is%20to,PH%20as%20the%20initial%20one.).
 
-- Undergradute (BS+MS): 2006 - 2011. Mathematics and Computing, [IIT Kharagpur](http://www.iitkgp.ac.in/).
+- Undergraduate (BS+MS): 2006 - 2011. Mathematics and Computing, [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 ## Positions
 - Assistant Professor: July'23 - current, [Chennai Mathematical Institute](https://www.cmi.ac.in//), Chennai, India.
 - Assistant Professor : July'21 - June'23, [Department of Computer Science](https://cse.snu.edu.in/) at [Shiv Nadar University](https://snu.edu.in/home)
-- Post-Doctoral Fellow : Oct'20 - May'21, [DataShape](https://www.inria.fr/en/datashape) at [Inria Shopia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur).
+- Post-Doctoral Fellow : Oct'20 - May'21, [DataShape](https://www.inria.fr/en/datashape) at [Inria Sophia Antipolis, France.](https://www.inria.fr/en/inria-centre-universite-cote-azur).
 - Data Science Analyst : July'11 - Apr'15, [FICO](https://www.fico.com/en/about-us) Bangalore, India.
   
 
 ## Recent Publications
-- Confrence:
-1. [Collapse and Persistence of Directed Filtered Graphs](https://doi.org/10.1137/1.9781611978957.14) with R. Roy, at ALENEX’26.
-2. [On Edge Collapse of Random Simplicial Complexes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21) with J.D. Boissonnat, K. Dutta and S. Dutta at [SoCG'2024](https://socg24.athenarc.gr/socg.html).
-3. [Filtration-Domination in Bifiltered Graphs](http://arxiv.org/abs/2211.05574) with A. J. Alonso and [M. Kerber](http://www.geometrie.tugraz.at/kerber/) at ALENEX 2023.
-4. [Swap, Shift and Trim to Edge Collapse a Filtration](https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf) with [Marc Glisse](https://geometrica.saclay.inria.fr/team/Marc.Glisse/) at [SoCG'2022](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/socg.html).
-5. [Edge Collapse and Persistence of Flag Complexes](https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at [SoCG'2020](https://socg20.inf.ethz.ch/).
-6. [Computing Persistent Homology of Flag Complexes via Strong Collapses](https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at SoCG 2019.
-7. [Strong Collapse for Persistence]() with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)  and Divyansh Pareek at  [ESA 2018](http://algo2018.hiit.fi/esa/)
+- Conference:
+1. [Collapse and Persistence of Directed Filtered Graphs](https://doi.org/10.1137/1.9781611978957.14) with R. Roy, at ALENEX’26 (A).
+2. [On Edge Collapse of Random Simplicial Complexes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21) with J.D. Boissonnat, K. Dutta and S. Dutta at [SoCG'2024 (A*)](https://socg24.athenarc.gr/socg.html).
+3. [Filtration-Domination in Bifiltered Graphs](http://arxiv.org/abs/2211.05574) with A. J. Alonso and [M. Kerber](http://www.geometrie.tugraz.at/kerber/) at ALENEX'23 (A).
+4. [Swap, Shift and Trim to Edge Collapse a Filtration](https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf) with [Marc Glisse](https://geometrica.saclay.inria.fr/team/Marc.Glisse/) at [SoCG'2022 (A*)](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/socg.html).
+5. [Edge Collapse and Persistence of Flag Complexes](https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at [SoCG'2020 (A*)](https://socg20.inf.ethz.ch/).
+6. [Computing Persistent Homology of Flag Complexes via Strong Collapses](https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf) with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/) at SoCG 2019 (A*).
+7. [Strong Collapse for Persistence]() with [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)  and Divyansh Pareek at  [ESA 2018 (A)](http://algo2018.hiit.fi/esa/)
 
 - Journal:
 1.  [Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology](https://www.sciencedirect.com/science/article/pii/S0925231226009380) in Neurocomputing 2026, with D. Peek, M. P. Skerritt, and S. K. Chalup.
@@ -46,7 +46,7 @@ Glisse. The module is the state-of-the-art simplification software to speed-up t
 2. [Filtration-Based Representation Learning for Temporal Graphs](https://arxiv.org/pdf/2502.10076) 2025, with S. Chowdhury, R. Roy and Madhav C. S.
 
 
-See the complete list at [DBLP](https://dblp.org/pid/42/10192.html).
+See the complete list at [DBLP](https://dblp.org/pid/42/10192.html) / [Google Scholar]9https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en).
 
 ## Software
 1. [Directed Edge Collapse](https://zenodo.org/records/17310902) also at [Github](https://github.com/dircoll/DirEdgeCollapser) With Rohit Roy.
