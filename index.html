@@ -127,6 +127,11 @@
       color: #444;
     }
 
+    .date {
+      color: #555;
+      margin-right: 6px;
+    }
+
     .two-column {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -182,54 +187,56 @@
         <p>Office: GR-6, Ground Floor</p>
         <p>
           <a href="https://dblp.org/pid/42/10192.html">DBLP</a> ·
-          <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Scholar</a> ·
+          <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&amp;hl=en">Scholar</a>
         </p>
       </div>
     </header>
 
     <nav>
       <a href="#research">Research</a>
+      <a href="#news">News</a>
       <a href="#publications">Publications</a>
       <a href="#software">Software</a>
       <a href="#teaching">Teaching</a>
       <a href="#education">Education</a>
       <a href="#talks">Talks</a>
+      <a href="#service">Service</a>
     </nav>
 
 
-     <section id="research">
-    <h2>Research</h2>
-    <p>
-      My research is in computational topology and topological data analysis, with a focus on algorithms for persistent homology. I am particularly interested in combinatorial reductions of simplicial complexes and filtrations, such as strong collapses and edge collapses, that preserve relevant topological and persistence information.
-    </p>
-    <p>
-      More broadly, I work on problems at the interface of algebraic topology, computational geometry, and algorithms. 
-    </p>
-    <p>
-     Current directions include filtered and directed complexes, multiparameter persistence, and topological methods for studying temporal dynamics, neural activity, and collective choice. This work is supported in part by an ANRF ARG Matrics Grant, 2026–2031.
-   </p>
-   </section>
-    
-    <section id="news">
-    <h2>News</h2>
-    <li class="news-item">
-      <span class="date">Oct 2026</span>
-        <a href="https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/">
-    Featured in Quanta Magazine: "How Voting Is Like a Klein Bottle"
-      </a>
-      — on our work showing that Condorcet's voting paradox has the shape of a Klein bottle.
-      (<a href="https://arxiv.org/abs/2601.07283">paper</a>)
-    </li>
-        <li class="news-item">
-      <span class="date">Apr 2026</span>
-      — Recieved ANRF ARG Matrics Grant, 2026–2031.
-    </li>
+    <section id="research">
+      <h2>Research</h2>
+      <p>
+        My research is in computational topology and topological data analysis, with a focus on algorithms for persistent homology. I am particularly interested in combinatorial reductions of simplicial complexes and filtrations, such as strong collapses and edge collapses, that preserve relevant topological and persistence information.
+      </p>
+      <p>
+        More broadly, I work on problems at the interface of algebraic topology, computational geometry, and algorithms.
+      </p>
+      <p>
+        Current directions include filtered and directed complexes, multiparameter persistence, and topological methods for studying temporal dynamics, neural activity, and collective choice. This work is supported in part by an ANRF ARG Matrics Grant, 2026–2031.
+      </p>
     </section>
-      
+
+    <section id="news">
+      <h2>News</h2>
+      <ul>
+        <li class="news-item">
+          <span class="date">Oct 2026</span>
+          Featured in Quanta Magazine: <a href="https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/">"How Voting Is Like a Klein Bottle"</a>,
+          on our work showing that Condorcet's voting paradox has the shape of a Klein bottle
+          (<a href="https://arxiv.org/abs/2601.07283">paper</a>).
+        </li>
+        <li class="news-item">
+          <span class="date">Apr 2026</span>
+          Received ANRF ARG Matrics Grant, 2026–2031.
+        </li>
+      </ul>
+    </section>
+
     <section id="publications">
       <h2>Selected publications</h2>
       <p class="small">
-        Complete lists are available on <a href="https://dblp.org/pid/42/10192.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&hl=en">Google Scholar</a>.
+        Complete lists are available on <a href="https://dblp.org/pid/42/10192.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&amp;hl=en">Google Scholar</a>.
       </p>
 
       <h3>Conference papers</h3>
@@ -239,10 +246,6 @@
           <span class="pub-meta">with Rohit Roy. ALENEX 2026.</span>
         </li>
         <li>
-          <span class="pub-title"><a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.21">On Edge Collapse of Random Simplicial Complexes</a></span><br />
-          <span class="pub-meta">with Jean-Daniel Boissonnat, Kunal Dutta, and Sayan Dutta. SoCG 2024.</span>
-        </li>
-        <li>
           <span class="pub-title"><a href="https://arxiv.org/abs/2211.05574">Filtration-Domination in Bifiltered Graphs</a></span><br />
           <span class="pub-meta">with Ángel Javier Alonso and Michael Kerber. ALENEX 2023.</span>
         </li>
@@ -250,39 +253,29 @@
           <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2022/16052/pdf/LIPIcs-SoCG-2022-44.pdf">Swap, Shift and Trim to Edge Collapse a Filtration</a></span><br />
           <span class="pub-meta">with Marc Glisse. SoCG 2022.</span>
         </li>
-        <li>
-          <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2020/12177/pdf/LIPIcs-SoCG-2020-19.pdf">Edge Collapse and Persistence of Flag Complexes</a></span><br />
-          <span class="pub-meta">with Jean-Daniel Boissonnat. SoCG 2020.</span>
-        </li>
-        <li>
-          <span class="pub-title"><a href="https://drops.dagstuhl.de/opus/volltexte/2019/10459/pdf/LIPIcs-SoCG-2019-55.pdf">Computing Persistent Homology of Flag Complexes via Strong Collapses</a></span><br />
-          <span class="pub-meta">with Jean-Daniel Boissonnat. SoCG 2019.</span>
-        </li>
       </ul>
 
-      <h3>Journal papers and preprints</h3>
+      <h3>Journal papers</h3>
       <ul class="pub-list">
         <li>
-          <span class="pub-title"><a href="https://www.mdpi.com/3934184">The Non-Orientable Topology of Condorcet’s Paradox
-</a></span><br />
-          <span class="pub-meta">with Ori Livson and Mikhail Prokopenko. MDPI Mathematics, 2026.</span>
+          <span class="pub-title"><a href="https://www.mdpi.com/3934184">The Non-Orientable Topology of Condorcet’s Paradox</a></span><br />
+          <span class="pub-meta">with Ori Livson and Mikhail Prokopenko. MDPI Mathematics, 2026. (<a href="https://arxiv.org/abs/2601.07283">arXiv</a>)</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0925231226009380">Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology</a></span><br />
           <span class="pub-meta">with D. Peek, M. P. Skerritt, and S. K. Chalup. Neurocomputing, 2026.</span>
         </li>
+      </ul>
+
+      <h3>Preprints</h3>
+      <ul class="pub-list">
         <li>
-          <span class="pub-title"><a href="https://www.worldscientific.com/doi/abs/10.1142/S1793525321500291">Strong Collapse and Persistent Homology</a></span><br />
-          <span class="pub-meta">with Jean-Daniel Boissonnat and Divyansh Pareek. Journal of Topology and Analysis, 2021.</span>
-        </li>
-        <li>
-          <span class="pub-title"><a href="https://arxiv.org/pdf/2609.28160">Homological Trimming and Regularity of Filtrations
-                                                                             via Local Obstruction Modules</a></span><br />
+          <span class="pub-title"><a href="https://arxiv.org/pdf/2609.28160">Homological Trimming and Regularity of Filtrations via Local Obstruction Modules</a></span><br />
           <span class="pub-meta">S.P. Preprint, 2026.</span>
         </li>
         <li>
-            <span class="pub-title"><a href="https://arxiv.org/pdf/2604.10192">Persistent Simple-homotopy Invariants via Discrete Morse Theory</a></span><br />
-            <span class="pub-meta">with Divya Ahuja, Priyavrat Deshpande, and Jaya N. N. Iyer. Preprint, 2026.</span>
+          <span class="pub-title"><a href="https://arxiv.org/pdf/2604.10192">Persistent Simple-homotopy Invariants via Discrete Morse Theory</a></span><br />
+          <span class="pub-meta">with Divya Ahuja, Priyavrat Deshpande, and Jaya N. N. Iyer. Preprint, 2026.</span>
         </li>
         <li>
           <span class="pub-title"><a href="https://arxiv.org/pdf/2502.10076">Filtration-Based Representation Learning for Temporal Graphs</a></span><br />
@@ -328,8 +321,8 @@
       <h2>Education and positions</h2>
       <ul>
         <li>Assistant Professor, Chennai Mathematical Institute, July 2023–present.</li>
-        <li>Assistant Professor, Shiv Nadar University, July 2021–June 2023.</li>
         <li>Visiting Researcher, The University of Newcastle, Australia, June 2024&ndash;January 2025.</li>
+        <li>Assistant Professor, Shiv Nadar University, July 2021–June 2023.</li>
         <li>Postdoctoral Fellow, DataShape, Inria Sophia Antipolis, October 2020–May 2021.</li>
         <li>PhD, Université Côte d'Azur/Inria Sophia Antipolis, 2016–2020. Advisor: <a href="https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/">Jean-Daniel Boissonnat</a>. <a href="https://hal.inria.fr/tel-02962587v2/document">Thesis</a>.</li>
         <li>BS+MS in Mathematics and Computing, IIT Kharagpur, 2006–2011.</li>
@@ -338,17 +331,28 @@
 
     <section id="talks">
       <h2>Selected talks</h2>
+      <h3>Online</h3>
       <ul>
-        <li><a href="https://www.youtube.com/watch?v=dxN7KZhBHFw"> Computing the Topology of Directed Networks </a>, AATRN Network Seminars, October 2026.</li>
-        <li><a href="https://bimsa.net/bimsavideo.html?id=75811.mp4">Efficient Computation and Applications of Persistent Homology</a>, ANU Canberra, Australia, and BIMSA Beijing, China, June 2026.</li>        <li>TDA Basics and Applications, University of Sydney, Australia, August 2024.</li>
-        <li><a href="https://www.youtube.com/watch?v=OsUHMf0OjLk&t=949s">Swap, Shift and Trim to Edge Collapse a Filtration</a>, AATRN Online Seminars, August 2022.</li>
+        <li><a href="https://www.youtube.com/watch?v=dxN7KZhBHFw">Computing the Topology of Directed Networks</a>, AATRN Network Seminars, October 2026.</li>
+        <li><a href="https://bimsa.net/bimsavideo.html?id=75811.mp4">Efficient Computation and Applications of Persistent Homology</a>, ANU Canberra, Australia, and BIMSA Beijing, China, June 2026.</li>
+        <li><a href="https://www.youtube.com/watch?v=OsUHMf0OjLk&amp;t=949s">Swap, Shift and Trim to Edge Collapse a Filtration</a>, AATRN Online Seminars, August 2022.</li>
+      </ul>
+
+      <h3>In person</h3>
+      <ul>
+        <li>TDA Basics and Applications, University of Sydney, Australia, August 2024.</li>
         <li>Persistent Homology: Theory and Computation, FGV Rio de Janeiro, Brazil, February 2020.</li>
         <li>Strong Collapse and Persistence, UAB Barcelona, Spain, May 2018.</li>
       </ul>
     </section>
 
+    <section id="service">
+      <h2>Service</h2>
+      <p>Program Committee member: FSTTCS 2026, SoCG 2027.</p>
+    </section>
+
     <footer>
-      Last updated: 2026.
+      Last updated: October 2026.
     </footer>
   </div>
 </body>
