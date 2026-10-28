@@ -11,14 +11,14 @@
       background: #fff;
       color: #111;
       font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: 17px;
-      line-height: 1.6;
+      font-size: 16px;
+      line-height: 1.45;
     }
 
     .page {
       max-width: 900px;
       margin: 0 auto;
-      padding: 48px 24px 64px;
+      padding: 32px 24px 44px;
     }
 
     a {
@@ -31,14 +31,18 @@
     }
 
     header {
-      margin-bottom: 34px;
-      padding-bottom: 22px;
+      display: grid;
+      grid-template-columns: 1fr 270px;
+      gap: 28px;
+      align-items: start;
+      margin-bottom: 22px;
+      padding-bottom: 16px;
       border-bottom: 1px solid #ddd;
     }
 
     h1 {
-      margin: 0 0 8px;
-      font-size: 39px;
+      margin: 0 0 5px;
+      font-size: 34px;
       font-weight: 400;
       line-height: 1.15;
       letter-spacing: -0.015em;
@@ -50,10 +54,29 @@
     }
 
     .contact {
-      margin-top: 10px;
+      margin-top: 8px;
       font-size: 14px;
       line-height: 1.45;
       color: #333;
+    }
+
+    .edu {
+      font-size: 14px;
+      line-height: 1.45;
+      color: #333;
+      border-left: 1px solid #ddd;
+      padding-left: 18px;
+    }
+
+    .edu p {
+      margin: 0 0 7px;
+    }
+
+    .edu .label {
+      color: #555;
+      font-size: 13px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
     }
 
     .identity {
@@ -64,7 +87,7 @@
 
     .portrait {
       display: block;
-      width: 140px;
+      width: 125px;
       height: auto;
       border-radius: 4px;
       flex-shrink: 0;
@@ -75,8 +98,8 @@
     }
 
     nav {
-      margin-bottom: 34px;
-      font-size: 15px;
+      margin-bottom: 20px;
+      font-size: 14px;
     }
 
     nav a {
@@ -85,34 +108,34 @@
     }
 
     section {
-      margin: 34px 0;
+      margin: 22px 0;
     }
 
     h2 {
-      font-size: 21px;
+      font-size: 19px;
       font-weight: 400;
-      margin: 0 0 13px;
+      margin: 0 0 8px;
       padding-bottom: 4px;
       border-bottom: 1px solid #e4e4e4;
     }
 
     h3 {
-      font-size: 17px;
+      font-size: 16px;
       font-weight: 400;
-      margin: 22px 0 8px;
+      margin: 13px 0 4px;
     }
 
     p {
-      margin: 0 0 13px;
+      margin: 0 0 8px;
     }
 
     ul {
-      margin: 8px 0 0;
-      padding-left: 22px;
+      margin: 4px 0 0;
+      padding-left: 20px;
     }
 
     li {
-      margin-bottom: 10px;
+      margin-bottom: 4px;
     }
 
     .research-opening {
@@ -121,11 +144,11 @@
 
     .small {
       color: #555;
-      font-size: 15px;
+      font-size: 14px;
     }
 
     .pub-list li {
-      margin-bottom: 14px;
+      margin-bottom: 7px;
     }
 
     .pub-title {
@@ -144,11 +167,11 @@
     .two-column {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 30px;
+      gap: 24px;
     }
 
     footer {
-      margin-top: 46px;
+      margin-top: 28px;
       padding-top: 16px;
       border-top: 1px solid #ddd;
       color: #555;
@@ -157,9 +180,10 @@
 
     @media (max-width: 720px) {
       .page {
-        padding: 32px 18px 52px;
+        padding: 22px 18px 36px;
       }
 
+      header,
       .two-column {
         grid-template-columns: 1fr;
       }
@@ -170,6 +194,13 @@
 
       .portrait {
         width: 96px;
+      }
+
+      .edu {
+        border-left: none;
+        border-top: 1px solid #ddd;
+        padding-left: 0;
+        padding-top: 14px;
       }
 
       nav a {
@@ -196,6 +227,13 @@
           </div>
         </div>
       </div>
+
+      <div class="edu">
+        <p class="label">Education</p>
+        <p>PhD, Université Côte d'Azur / Inria Sophia Antipolis, 2016–2020.<br />
+          Advisor: <a href="https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/">Jean-Daniel Boissonnat</a>. <a href="https://hal.inria.fr/tel-02962587v2/document">Thesis</a>.</p>
+        <p>BS+MS in Mathematics and Computing, IIT Kharagpur, 2006–2011.</p>
+      </div>
     </header>
 
     <nav>
@@ -204,7 +242,7 @@
       <a href="#publications">Publications</a>
       <a href="#software">Software</a>
       <a href="#teaching">Teaching</a>
-      <a href="#education">Education</a>
+      <a href="#positions">Positions</a>
       <a href="#talks">Talks</a>
       <a href="#service">Service</a>
     </nav>
@@ -323,15 +361,13 @@
       </div>
     </section>
 
-    <section id="education">
-      <h2>Education and positions</h2>
+    <section id="positions">
+      <h2>Positions</h2>
       <ul>
         <li>Assistant Professor, Chennai Mathematical Institute, July 2023–present.</li>
         <li>Visiting Researcher, The University of Newcastle, Australia, June 2024&ndash;January 2025.</li>
         <li>Assistant Professor, Shiv Nadar University, July 2021–June 2023.</li>
         <li>Postdoctoral Fellow, DataShape, Inria Sophia Antipolis, October 2020–May 2021.</li>
-        <li>PhD, Université Côte d'Azur/Inria Sophia Antipolis, 2016–2020. Advisor: <a href="https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/">Jean-Daniel Boissonnat</a>. <a href="https://hal.inria.fr/tel-02962587v2/document">Thesis</a>.</li>
-        <li>BS+MS in Mathematics and Computing, IIT Kharagpur, 2006–2011.</li>
       </ul>
     </section>
 
