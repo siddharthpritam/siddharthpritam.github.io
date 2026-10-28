@@ -31,10 +31,6 @@
     }
 
     header {
-      display: grid;
-      grid-template-columns: 1fr 245px;
-      gap: 34px;
-      align-items: start;
       margin-bottom: 34px;
       padding-bottom: 22px;
       border-bottom: 1px solid #ddd;
@@ -54,20 +50,24 @@
     }
 
     .contact {
+      margin-top: 10px;
       font-size: 14px;
       line-height: 1.45;
       color: #333;
-      border-left: 1px solid #ddd;
-      padding-left: 18px;
+    }
+
+    .identity {
+      display: flex;
+      align-items: center;
+      gap: 26px;
     }
 
     .portrait {
       display: block;
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
+      width: 140px;
+      height: auto;
       border-radius: 4px;
-      margin-bottom: 12px;
+      flex-shrink: 0;
     }
 
     .contact p {
@@ -160,7 +160,6 @@
         padding: 32px 18px 52px;
       }
 
-      header,
       .two-column {
         grid-template-columns: 1fr;
       }
@@ -169,11 +168,8 @@
         font-size: 32px;
       }
 
-      .contact {
-        border-left: none;
-        border-top: 1px solid #ddd;
-        padding-left: 0;
-        padding-top: 14px;
+      .portrait {
+        width: 96px;
       }
 
       nav a {
@@ -186,19 +182,19 @@
 <body>
   <div class="page">
     <header>
-      <div>
-        <h1>Siddharth Pritam</h1>
-        <p class="position">Assistant Professor, Computer Science Group<br />Chennai Mathematical Institute</p>
-      </div>
-
-      <div class="contact">
+      <div class="identity">
         <img src="photo.jpg" alt="Siddharth Pritam" class="portrait" />
-        <p><a href="mailto:spritam@cmi.ac.in">spritam@cmi.ac.in</a></p>
-        <p>Office: GR-6, Ground Floor</p>
-        <p>
-          <a href="https://dblp.org/pid/42/10192.html">DBLP</a> ·
-          <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&amp;hl=en">Scholar</a>
-        </p>
+        <div>
+          <h1>Siddharth Pritam</h1>
+          <p class="position">Assistant Professor, Computer Science Group<br />Chennai Mathematical Institute</p>
+          <div class="contact">
+            <p>Office: GR-6, Ground Floor · spritam [at] cmi [dot] ac [dot] in</p>
+            <p>
+              <a href="https://dblp.org/pid/42/10192.html">DBLP</a> ·
+              <a href="https://scholar.google.com/citations?user=Gf9nLJAAAAAJ&amp;hl=en">Scholar</a>
+            </p>
+          </div>
+        </div>
       </div>
     </header>
 
